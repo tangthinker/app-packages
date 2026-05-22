@@ -1,5 +1,7 @@
 # app-packages
 
+> [中文](./README.md)
+
 > App Distribution Repository
 
 This repository hosts and distributes application packages across platforms, providing a stable and traceable download source for each release.
