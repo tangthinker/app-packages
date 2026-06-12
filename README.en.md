@@ -10,6 +10,21 @@ This repository hosts and distributes application packages across platforms, pro
 
 ## Current Release
 
+### AirDeck for Windows — v2.0
+
+| | |
+|---|---|
+| **App** | AirDeck |
+| **Platform** | Windows |
+| **Version** | 2.0 |
+| **Status** | Stable Release |
+
+AirDeck is a remote control application. The Windows 2.0 release is the current stable version for this platform.
+
+---
+
+## Previous Releases
+
 ### AirDeck for Windows — v1.0
 
 | | |
@@ -17,9 +32,9 @@ This repository hosts and distributes application packages across platforms, pro
 | **App** | AirDeck |
 | **Platform** | Windows |
 | **Version** | 1.0 |
-| **Status** | Stable Release |
+| **Status** | Previous Release |
 
-AirDeck is a remote control application. The Windows 1.0 release is the first stable version for this platform.
+The Windows 1.0 release was the first stable version for this platform.
 
 ---
 
